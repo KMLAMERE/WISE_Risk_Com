@@ -1,7 +1,7 @@
 ###########################################################################################
 ###########################################################################################
 #------------------------------------------------------------------------------------------
-#TOPIC MODELLING CODE FOR "A Mad Tea Party: Risk Communication and Interdisciplinarity" 
+#TOPIC MODELLING CODE FOR "Bridging Perspectives: Risk Communication within Interdisciplinary Teams" 
 #by Kelsey LaMere, Annukka M. Lehikoinen, Arho Toikka, Jussi T. Eronen, and Sakari Kuikka
 #------------------------------------------------------------------------------------------
 
